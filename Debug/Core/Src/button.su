@@ -1,0 +1,7 @@
+button.c:17:5:isNormalResetPressed	4	static
+button.c:26:5:isNormalIncPressed	4	static
+button.c:35:5:isNormalDecPressed	4	static
+button.c:44:5:isLongResetPressed	4	static
+button.c:53:5:isLongIncPressed	4	static
+button.c:62:5:isLongDecPressed	4	static
+button.c:72:6:getKeyInput	16	static

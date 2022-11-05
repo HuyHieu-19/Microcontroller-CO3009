@@ -1,0 +1,7 @@
+software_timer.c:23:6:setTimerCountDown	16	static
+software_timer.c:28:6:setTimerSilent	16	static
+software_timer.c:34:6:setTimerLed	16	static
+software_timer.c:39:6:setTimer	16	static
+software_timer.c:45:6:setTimerINC	16	static
+software_timer.c:50:6:setTimerDEC	16	static
+software_timer.c:55:6:timerRun	4	static
